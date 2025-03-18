@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# db and document_store
+app.db
+document_store
+
 # Distribution / packaging
 .Python
 build/
